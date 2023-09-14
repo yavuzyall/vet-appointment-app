@@ -49,3 +49,27 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 # vet-appointment-app
 A veterinary appointment system has been developed with React. 
 >>>>>>> a68671d470ed5351d02ba6f10e5c733773f83f9d
+
+# Application Usage
+
+There is a firebaseConfig.js file inside the application, that is, inside the src folder. This file is not included for security reasons. However, after you create your firebaseConfig.js file and do Firebase operations
+
+`import { initializeApp } from "firebase/app";`
+
+`import { getFirestore } from 'firebase/firestore/lite';`
+
+`import { getAuth } from "firebase/auth";`
+
+These files should be imported. After that
+
+`const firebaseConfig = {
+  apiKey: "",
+  authDomain: ".",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
+};`
+
+You must perform the Firebase Auth operation in accordance with its structure and set up the structure.
+In the application, json-server, axios, firebase, tailwindcss, react-router, material-ui, formik, yup, contextApi... are used.
