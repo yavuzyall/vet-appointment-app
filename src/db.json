@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "firstName": "Yavuz",
+      "lastName": "Yalçın",
+      "phoneNumber": "5423657423",
+      "email": "kullanici@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": "uE6vAqCCcraqysleyHwDIeVzlhW2",
+      "pets": [
+        {
+          "petId": 1694588849008,
+          "name": "Kitty",
+          "type": "cat",
+          "age": "45",
+          "photo": "data:image/jpeg;base64,UklGRpwXAABXRUJQVlA4IJAXAAAwcQCdASpAAbQAPm0wlUekIqIqqBTaiVANiU3O5g1Ceju4TId65PW+d/MD+q++taX8b+POiLqPze+efzF6tvWt+i/+h7gv6r9OLzB/sV+xnvEf571Q/471AP7b/res89B79efTZ/bf4Qf2w/cD4F/2H/+1bicCHHdlDt1moxA2Ux9jseh5Lvwft/qI9Lz0hzLanAIttd1DU7aSSPXv8UbmLja2Q8oqD1//xkvN7/WsGxkbcoTHnu1gblb3uGgWARp9Y47b64F2zVDU4OS28iSjpM9Oa+xBKc+qwjGh2VBiCnIxUbMNCpGw5P7LRdB4E5vw/6eCSE07s1zHqXYnzgNlXf/4DpMJUdOi4zxHHkDgHm0bTyKguARmdrP4ZCRG+kgWPuWxjNDfRzy0Q+/wVQe3LdAaHrtpXdgpZYsOk6audrOJTCtLtnwsGLl62Rmz6OiBSHtPkRyxDHTJ3l5g6RfqfqXXfjhAsGJenncohi51UBsyIPq4DJ3Pp23KXt3ISdq6pY5Zdr7ucStLcNmrg3Fskgmagio/5YAt96TgucHZxqZo8XFioYfUEq6CoWubmDC1mEJu9pBoP4vZO3bqNLUndcBCeBcvYFxd+iLUL4HVNOUxL+QS6Po2zGp3eZylvJC229XrQyRHcNKInYFmygxvq3kVbox9CN27eF6nLtdwJ8ZC9jc/kyu7Yt5iF2fmGcnMaomo/WyHdtjeP0ROneXljaoOg6q0eGN/OVsAVOPjAWvnD6TgJgbMDPC4vFaCl50CNysKyWlW1UHpuPfZDDrTWGssobKLOIzMm4tyf3i+uO3nWwCoE48EUM7DKLAoxBml85JQKDfTeXY8vFSr14yVAw8ycJGlhg8XjTdfQ77jvfZhlzfGT/VABivD7zMkDQLfbPmK2cCKD7hhdyei+jRrB4N3jC6jGxuGRLWOoUK9pJR6Y2dNB7zA8/f5ytHLKSVwra+TtAyzi+nPUIJbAzQnecdc0oq+RAvEdw/LTnSkM+SinZ7mAzGe2lJFo7gkTqqC29NSXhQQFjVN7J53BtVdNx5Uyj+sBQD3JEMlfNTzLDFbgnFSc487a6UqpjCdgmy4H21+E7CuWbbf1Yup+kzT7KuY48jOyxxS/wLV5QJwuEA7GYXMuubOrzflD4e8DZcCHf7P7fdXzfIvBKzqnjP09D/eoTounVtaqhmLx9Zo7JBOzuuK5xk17z+9dL59qKFAAAD+51fGP+nD//+q0/ytP8rTk0dWXAm4qfNdduF6fAG9t5ljMzvvHwKtWpw56KH//fBoLqfXRb7bX3Rlhzj/kCb6zBaFmPqJ8xhdjVethHZYlC5fkoffjJeErsqncQS0MRNM0c1NtUUYUvQx4BaEreJunH6rrIU1mggvbbVXnQ6UztP3WuNeihI3T3BmW76PR75MqVkVFs6ws6gtyRJ8QONszsvSnixI9G5fNp97cSF1AmBi4NwHmRScJ1P7k2hwiEE0ztl6QjPiyxHhOkjUdwckFf2w9dYfbukWyst5LVeGo8rm9zURmJRpCkwzF0tNoedmG8QfuuXiQrj7wDGgH5D7p1Ml+lGoY2A9yf7yGM/TJ2sbTEr87KzGQx/1ZnpA1TP+LZ9k+ZRDKDEMr/FFc8FCLngc9ywiGofJvo8fsExq7uj94cldt8q/9MFQn2o38Lxq/qm6HSg06Q13/+ng+WL+rUw3svr+qilTmrSppaHxUyCJRtSp1X52L4/KzoIUo+Drf472xP59UMeZ+bTNFmkGZTgTVkLRnpSDb7wNttV+BglSgKnRBm56JxELHC8AkXw5UIrB2nyk36JO1zoB34VHj5mhiipysBDNqsiVMe4a/HdsydDyYrpR/8+nBS7/4Vn5wlSojxIMbrVqjcbZwAikhHyY7MBtznAtZHWMKxrt66RaXA8/jCl/u1JmJwEPvvDYGGrPx2sHXvmIWdXrtJTFKdVlHVrkhZ5HJYlet+d3/4FRTCOa6+6iXQtib0Hp08MQD69m2VAHoNhzxyVXQlw/Hrf0Psf+s9wKiXXD7fTKTNuJTIPN0xo2u1Kv9IChYrBICQoJzClIyPNgZooP02blCzRqn9TvD09uhnEMSf9VvRIIaIUdIRdc23meEoZQ3Z5rq7yZsTRBIiyrWEhD6FHcnOghlQw464ojVx+EYIjH7PykhUzK/0xlb+no+OXeowYik9AvYeZ2HIggrDNH2hGN70Rci0huvGVcp0SvZrhKes7uBlU957/Ewvg+2mLcfhBY16HKGbnIsqu1WbjXVusZr3SKQmfm4mTdKe0lzpgRszzdRCRK/xl9xUc15kXdOj86D14mqQRAZNWsw9PZK7SETXJmSX2UvnoLDoN9Ie4flTu/8ZYyZ9lH6YsHWcfsAn38uD61k2QaG1UyzMiUU/k9MmxjbGDnpJqpIwGw5VQfa2KmyauPm8N459vp6oEKmnYky+n0wh9v76KbmB31PJEOknCUepVBY1mpsAJQsne3Ns8UHGzHXhtc45FMdGCiA3bW82e5Vli8wsDHHo16e6MDswFHEFgRpjh4KSbhTmj4/zmBcDoDtTYA5tKSOx7650z2a/8eiscWw3MHAEfNLu10Vefm3tElN4xWJX2fP/pzLgL2PYnT6fEX79v64OT3fai4hyfW+OzrdifBmNwAlexo/Ccvs5Qw+AlrhXXOPFDVqhF6PRFFW+TPXUqKbhs8Ld6O5YYLpRbkxHAQIpSIBPyre7h4n6GoYv79bboYGMrix3jZNGuW7w/flnE1KDleGU2lYxXhwHjiDcAmypkkQsf0jWKHErpfS9m+CBD0btE4hWwBvhnn0XkGyFdM/1DW0sppWHj0B5Md6DLFq5fYSIHDFRWi2rh3IsUbcmtxP4EhOBSvP442dITJPBzym96pgyij2dXzxmtXb2Ct6qNsTVF9ROyQ7LEBOp8qTTMmKjYUydCKszYxpOvKaZG6paR/tes7tjnTEl4+XqPm1pAoYLJc5mkAphQvwYgUE0sxZ/OP0eF5yzqU6+PIKYtuO/aCr9vmp4Aw3x0MpA5BL9ziglqu/EtZnPqZPK2iXyTXyvZwl7Thojx3eGOQzagq0NVyBZvuQq7FgX0fR5Ery4vjSKMDx4ytOsqFFlpDYoK4sgvPVT5nnyq0pDGuOwa8nZ7kKj6kvJCAznZDG33gBAceQvW4jzXl3J1tLPLXId7qgllVbXDPTQdFKZOJCDsuNPZCpSQdx8G1VfpctCF1g3N6367wnRTzAUe6FDowfFyrj9M9HzpPemKItcthrb//F7B5vsisM2rNZQsi5F+FgvKeXV9w7XyScjjv3E2fsM+hmsLZ+qoGdJP2p5Gs0OQhEBKVD3g2nYKgP2sRjcyrVPMOHA4I8GwYTG+KutCMOeQPPdg3CeCul6wVkhwd/rEkdnVJAQiowr2xCDAGUP3QNpoY0hOIKLW93YubBAVavxFunOG4xD9awZJmlBkj7v17+/vZaZK5iAYs2Q3TTqf48XoPhZAzemISS9ySbbkyMTVcJgE5Wgc1gbgqqpvssaRg4rkbEKwX0CxJh6aucNl8KmuRjsI+moQMAlv+W7tIIEuD6HeXhTdmogkZk7QfqPxZxJBCUIFCHUW2AgiWDGv5cOpM9CyVpp0p9Xz8ZmKdhnJzXswqqyC1O1w1jyJkjnUE7V3OftWAfMCr3qOLEDi3spFz+l+E4Bucc/pTL69bB8FfbK7gaedPS5O4tvWJ9x2JJ/dgrhaaRedA3f2JcMzem/7qqc5qNysi6JE5To7KV5jBhjB8u6dXEg/KTdRkEckGXWAehsL69lEg6+Epd2cOXoFGZSirHVM9sHTi7Dh6auRxkFWqamEmA7n6sOyFS5s3uYREzc3oVWu3z+SISxqkz1zid2LEdX+mJjA0mavXa09j0UvtXDQfiyKLCyrs+FoPRBWGtCoqU7xGsoAjl/7tbPWFjUIVk2btCacAQdxBThTwHDViCuxGR0VrXMWACWx5sVQ2ohXZYaloekXCOhsnscOEFJprAudt+HKHDKuRJWwcY53ktW/Nr6BTPjdRmxMnn0WJ6AUpCD6BHu3YPLIOTjqARWcPpu0iAZXPABR+GrD1+Z0V0u/RJq2gBwb+Scxs20n+nZQ4DN6p6itxVBTCpilU5zn7rDufOTU32FanuPjrmVBlJOUHQ+OD1XMpnwxI/+tH9qGpXEc9UMfBcmqh0xttHcWpq817NDUgnJmKEfGrAgKkor5AFxylcm1x21/inces18DUAXh9hUxDYR7TorWRaEjptb0sqG3qQf4Y1uBUw8qKnKXy/uQSXEzJQbUDvABnWcshWp496PqX0HcltLtMs0FxuC4JjWjlJIWzKa3C8Wby67+64XMo2b9//EFFI+VJoYa+6Uxu7aM9rMChfWdGlew8gIB9rsvYhydpEINkOG44R2a85DZn2cGYGAAWO5lwGjtBJtkXpG7pmvh7i7c4j7Ly3Lx6oCKRgNAJYcpEcJaF6AjV62lD1wqL0QECzg+A4kjBUiOxBy5pL8Kwk3zZTh5MiyOHnmJ3zH/6Ba9QUd1F6UaJuEIp7+it9RjlIC0eDtfyS6CeAvfyv7gbpfLt7z0LNCnR258vVk5LhnRgODRbDTDrwrdpp/v/FzZkfhkICer9TcOql32FIbJnflKxIgfgXobYWdLT3qMntDeCc9Y1jt4RhSVzFNLAUgAi1z8okXwA5U2In35nfd5u/WedKCQpFp2zQFDvCLPFSbpxqDALJ70Lbm2Jkv8lUvIhhNyO2QOz5InQRvc3Q0JBzo47UnSrEqap/24s4Tr02YMJJQi7X/BAgzR++xFR/huauj6XOSf/DDVJ9z/WF1XdUlKvx8TjgFNOBaECfw6/swmeyk/mENVhOdqMBYCWzWrqtlpEOXfE9yKaN4z+bWMesP4H9byQr/uszz7MlDAU8kL4yCHwF/2G3vHqLvwzR69fkkF7FT6dfHc2R0XoE+02CwcavNEux6nYKZrbf/s5+fjobiZbkCmRqHb0USjaYU0yjSxT+snTJ1D07wiQUzUAy1MkzG5BfJANIJU+FwfDtWN4MQBrOlfHkAPn/+thWgBHrGMwK8zpKBQa7PHKPZHndW5uOL067TmwemyBq2ulP6uMkC0y87NTBWvXh4ajRFaS/YjnnKNrxBUfgYFDl1fxwyBS1GRRUa761fEk+AjmfeNY7F7IPSvySptmXMgzgwojGaYi3YN+oTW3VEr4GeuzcfEDWdnV4Yfmf+gL/GyoEjeO8rzFjRBHrsCdpWdK9MvDnydbLQ9C5pXkGI5V6d4ug09T6zLuslAC2mHZB54wrFn7OqpXUdoPvu8JpKB2LJzo8/a65apf7jXOBYae0EENRaCZa30807zQB9TmRuVcENS7rPAX5TS7MvOSA8lCId2BvCihAHSdzylsG/1zwRtB+U1nIcSplySIBCln3pC9qf0GjYLLQLuy5yC8GuQoqD6OqJf8xWhOMKkwLtRMOK6RBOOuPag5u1Q3LXaKewoTG6b4EpKd90fBH+qKq+3mSEWNrZ+E+ZCX7ZVhhZW1GRYHi2OI7GrDz/nlpXg/Gf1Ua1uZ1PvGd+FxvD89yngzXEztR4WcdYT+iFncMWLSp84RK7873qsSz7jJRJv024qOlL+OOccrf02kqRrUF8kPnVmF/nfrnsCLiVYj6L/I2ClvkeAI7szvLipJtk3NaTA2jsvifNywprhkeh+B+hidHdim+7t6+SYevoklyw4RISWtlMFJISUKczfI8zgzyb5sc8THF2Rwoab0x00f6KtGJzfZ1QcwD5wStl1Zr3WeoNJKXsX/hoM7A3I0NAFanAcr2U2XyBvgr3X6RrPbehhIBSKhfdPT8Rnn2L360EqNkjAPkAZ8/h1gbe8cStYGww0Tt/QKFPBEnQfw0/28ilFC6usbiQV6IPQ5HqARgU/bhGool3CCvfSuL1SNcvefyJRP2yqcuwF2d0ZPKYi+kD8EkURfyooYfqHhhjb7/35lOIzTWOs1j2BheZg+YIrFN/Dw9YcrMnwhGUgTv2n7CMKAOsaexRhVt3Q19lHzGVwE/y9c83pKOCvFwBu+/Yi8Rc3LJjOKhlysDQUIZeXfjwU6isJXASKGD7Mey4vLFwBwSumdxdFBghpSHXB08h3QF/xjezkLqM0zUuc3Rca10Uk5fRVVitq/HLQMLN73tk0LQ8vb6jYup4UBT1gasN93hRFelq/odh+iiBTVpzDsS347+EhBQigyiZlpsBlriett7EEBepZcd4qJffFN2PuGJ6oc6DpoTmpfrAGk7dqFoYVy2lDcb8hIY5NM+ngAPf89wFK1v+8f/jkwh/xHewhVgJDr1MT4SLJtViN43gMCXXOfteS9yCOtAb4wJG0/MQkmVo7UbBAvku4eS5sUYoHe5v9UEMf++zgo1Df974R9bRpvlrwjSCr/8VWwxL98QRRgJQs615lPVwZvGlSO68T3Ys7kv3UQEGCA4SwqyW19f5NU65Wn8MkjWf27ZKMh5rukiS3XCTTStJfWOMtg/lNmWJZCgz4xt8vOTX2toNRQwc4pcu3r4QHwlLcILR7MznaNyHLKbDHOA3WXQTDBu03uKxIoora2n5vr3yDSYuRjZnkVA7Hg5Qn0aqh2vtDcmdguWjMrWEYOCbXLw0xscJfx1NbMh1/pTBbKixMzQskbeQ3NXOsHxpXnbYMA1TG6HVKuWB+2yEej/CEEpu3gRm1ihQmTyFmuVAToAsubTHNZxNNASyiXpDrOHT3tQ6nOziXkbmiM+zhOCd6JjSnDCxDWT4ObuiHNDAWCsxTEMullx5JPArmMwKL/7RWTfGHqNDw57zIX2Ycinm6N5j2L4AeyslTGYleNczI/4lRhpzq/2TIMohFCyYnu4rU4m1ricDcR5M3/wKRlYt5OpfyLm0B/UIbKwvEOUCckw3k8E0Zj3RC//8QvYiczWp0OED/TZRh1cnQ2O9nDespWvIN05ii+v1v4vItDOdnxypfkDHVm0XCUyC3xxlE6HR1haCB1p+oMjtxoOTFQumjhR38fBCmQHDkiwimeU0pSHd5PmAFgwfd6ZXqPx3aAPvnH8T81pbXu1DBJbr7Cd2V4EcY98RdLs+EviwHNuIh+7HYX3lnqnSdUOn74pDN0BfH0s9ujFVBqh+B9yHbXMGDT7PGZyi8uyCTz/O3uoiey+k+sOJLJS5KnoDmh+l7Hf7N3JPfsnPxgi+wW4I2VD4pLp1u9RFW0J9qOG9Nk6WCMsIP09SocS0eBIic01rUBHCMTFI1AvQuThL0tIareouj/MaPweyOtl+lH7HI93ClXnxhnHzMnhyR7XyjS6muyjnF2O8FLQrEn3MiGgPLOxmSWBdB0j5syZo4E1rPN3CdZq9o+c9Da6Rf8Di7xjOOQaX21zAetmajbKKdO3fkADPCr2f+bXeqI56ifbUhfyXDiPdPPXzH6GFsFLLQWz8Ve9UQkhqzeErRGzQGdtD8dpd/t2XoQ/cfbpEbizJ0J5Hb4lukwWUW4RfAeSK86grXUR/aqhovI2zGzwCrTYbBTTnH1gXXAwcwr7xdVO1Kxt5oSH+YIOwuf+SDcPnEqzYP68xS5Bdbr4BKv6zfUW/sWQPWosPHdKxmN8u2kZW/0iJKQ6Ou9YKfmHHvRDE22aHnOAEzqPA+QS/EEE/MjxfMssO3IF38822zWF6lcdagSUmfudj6LtGxLwOsWDwcNz1hlTpDV1QBYyf/RCi6KZUyX9SHoZmtUu/12Ea9GeMZXUSR01Lr/b56qcdHPdjcPmNg4z+0tAIVs6Lsoe+QQc9Y4YeKBwsMxfMUYm8boZH/nAjFPZzZEQ7w+sm0wwwkYSX1LRBvgsPUraTd1q+dbXX0bCXnAGHeTDeAAdDyqvbqthqWQThsQmjFAiMwE0s39RYwNr/aPzT4LnECVQ07Ke+8K0byIOYPGr1bZaGj0bYIQgtbd5OlDkegGWlIiwAws20kFLqu3Qt1cUHnfJRFejrFFB3lfFobdyuFsJHII+pU20dRpIO5smNHvM+KEdukqxBmG7taD6wg2oiRv+yJKG8DBFBx1Zm4RjX75R+e9FzYAAA==",
+          "lastVacDate": "2023-08-27",
+          "lastInspectionDate": "2023-09-08",
+          "description": "Kedi otuna alerjisi var. Vitamin takviyesi kullanıyor."
+        }
+      ]
+    },
+    {
+      "firstName": "Esma",
+      "lastName": "Türk",
+      "phoneNumber": "5236548721",
+      "email": "esma@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": "VlUBkLgS8sajzXTiuYdpGcZcu1T2",
+      "pets": []
+    }
+  ],
+  "appointments": [
+    {
+      "date": "2023-09-28",
+      "time": "10:00",
+      "description": "Rutin kontrol randevusu.",
+      "petId": 1694588849008,
+      "ownerUserId": "uE6vAqCCcraqysleyHwDIeVzlhW2",
+      "veterinarianId": 4,
+      "id": 2
+    }
+  ],
+  "vets": [
+    {
+      "id": 1,
+      "firstName": "Salih",
+      "lastName": "Necati",
+      "age": 34,
+      "description": "Veterinerlik kariyerime başlamadan önce, lise eğitimimi tamamladım ve ardından veteriner tıp fakültesine başvurdum. Veterinerlik eğitimi oldukça yoğun bir süreçtir ve hem teorik hem de pratik bilgiye dayalıdır. Dört yıl boyunca anatomi, fizyoloji, farmakoloji gibi derslerin yanı sıra laboratuvar çalışmaları ve klinik deneyimlerle donandım. Bu süreçte, hayvanların sağlığına nasıl katkıda bulunabileceğimizi öğrenmek için büyük bir tutkuyla çalıştım. Zamanla, belirli bir alanda uzmanlaşmaya karar verdim. Bu nedenle, iç hastalıkları ve kardiyoloji konularında daha fazla eğitim aldım.",
+      "vetPhoto": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "goodRate": 15,
+      "badRate": 2
+    },
+    {
+      "id": 2,
+      "firstName": "Ayşe",
+      "lastName": "Yılmaz",
+      "age": 32,
+      "description": "Veterinerlik eğitimini tamamladıktan sonra büyük bir hayvansever olarak çiftlik hayvanlarına özel ilgi duymaya başladı. Özellikle sığır sağlığı ve beslenmesi alanında uzmanlaşmıştır. Ayşe, özellikle sığır sağlığı ve beslenmesi konularına büyük ilgi duydu. Süt sığırı yetiştiriciliği konusunda derinlemesine bir uzmanlık geliştirdi. Bu alandaki bilgi ve deneyimleri, çiftlik sahiplerine sığırlarının sağlığını korumaları ve verimlerini artırmaları konusunda önemli bir kaynak haline geldi.",
+      "vetPhoto": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=987&q=80",
+      "goodRate": 23,
+      "badRate": 1
+    },
+    {
+      "id": 3,
+      "firstName": "Mehmet",
+      "lastName": "Demir",
+      "age": 40,
+      "description": "Mehmet Demir, veterinerlik mesleğine olan ilgisini çocukluğundan beri taşımaktadır. Küçük yaşlardan itibaren hayvanlara duyduğu ilgi ve merak, onu veterinerlik kariyerine yönlendiren ana etkenlerden biridir. Veterinerlik eğitimine başlamadan önce çeşitli hayvan bakımı ve yardım projelerine gönüllü olarak katılarak deneyim kazanmıştır. Veterinerlik eğitimi süreci, Mehmet için hem zorlu hem de öğretici bir deneyim olmuştur. Dört yıl boyunca anatomi, fizyoloji, farmakoloji gibi temel bilimlerin yanı sıra klinik uygulamalar ve cerrahi beceriler konusunda eğitim aldı. Bu dönemde, küçük evcil hayvanlar, özellikle kediler ve köpekler üzerine odaklandı.",
+      "vetPhoto": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=928&q=80",
+      "goodRate": 56,
+      "badRate": 3
+    },
+    {
+      "id": 4,
+      "firstName": "Zeynep",
+      "lastName": "Kaya",
+      "age": 37,
+      "description": "Zeynep Kaya, veterinerlik kariyerine olan ilgisini egzotik hayvanlara olan merakından almış bir veterinerdir. Egzotik hayvanlar konusundaki bilgi ve deneyimleri, onu bu alanda bir uzman haline getirmiştir. Çocukluğundan itibaren yılanlar, kuşlar, kertenkeleler ve diğer sürüngenlerle ilgilenmiştir. Veterinerlik eğitimini tamamladıktan sonra, Zeynep, egzotik hayvanların bakımı ve tedavisi konusundaki bilgisini daha da geliştirmek için çeşitli rehabilitasyon merkezlerinde çalışmıştır. Bu deneyimler, onun egzotik hayvanların benzersiz ihtiyaçlarına nasıl yanıt verileceği konusundaki yeteneğini güçlendirmiştir.",
+      "vetPhoto": "https://plus.unsplash.com/premium_photo-1681490708105-46d8267e812c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "goodRate": 18,
+      "badRate": 4
+    }
+  ]
+}
